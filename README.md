@@ -6,4 +6,3 @@ This is my assignment repository which is given by Sir Talha in class 17 of GIAI
 [Sir Talha's LinkedIn Profile](https://www.linkedin.com/in/growwithtalha-webdeveloper/)
 
 [My LinkedIn Profile Link](https://www.linkedin.com/in/abdullah-shaikh-29699b302/)
-
